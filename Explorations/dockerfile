@@ -1,0 +1,11 @@
+FROM julia:latest
+
+EXPOSE 3000
+
+COPY . ~/julia/envir1onments/v1/
+
+WORKDIR ~/julia/environments/v1/
+
+RUN julia docker-setup.jl --project=/
+
+CMD julia src/server/server.jl  

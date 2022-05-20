@@ -1,0 +1,26 @@
+version: '3'
+services:
+  proxy:
+    image: nginx
+    ports:
+      - 80:80
+      - 443:443
+    restart: always
+    volumes:
+      - ./nginx/conf/:/etc/nginx/conf.d/:ro
+      - ./certbot/www:/var/www/certbot/:ro
+      - ./certbot/conf/:/etc/nginx/ssl/:ro
+  certbot:
+    image: certbot/certbot:latest
+    volumes:
+      - ./certbot/www/:/var/www/certbot/:rw
+      - ./certbot/conf/:/etc/letsencrypt/:rw
+  frontend:
+    build: fe/
+    ports:
+      - 3000:3000
+  backend:
+    platform: linux/amd64
+    build: be/
+    ports:
+      - 8080:8080

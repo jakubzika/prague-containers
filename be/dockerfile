@@ -1,0 +1,14 @@
+FROM julia:latest
+
+EXPOSE 8080
+
+COPY . ~/julia/environments/v1.7/
+
+WORKDIR ~/julia/environments/v1.7/
+
+RUN julia src/setup.jl --project=.
+
+CMD julia src/server.jl --project=.
+
+
+
