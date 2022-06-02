@@ -1,0 +1,42 @@
+{
+  "search": "Search",
+  "pinned_locations": "Pinned locations",
+  "search_for_containers": "Search for containers in my area",
+  "show_all_containers": "Show all containers in Prague",
+  "more_information": "more information",
+  "show_on_map": "show on map",
+  "trash_type": {
+    "unknown": "unknown",
+    "colored_glass": "Colored glass",
+    "electronic": "Electronics",
+    "metal": "Metal",
+    "beverage_carton": "Beverage carton",
+    "paper": "Paper",
+    "plastic": "Plastic",
+    "clear_glass": "Clear glass",
+    "textile": "Textile"
+  },
+  "container_keys": {
+    "predictedDemand": "average demand",
+    "numberOfPeople": "number of people",
+    "emptyingFrequency": "wast pics frequency",
+    "trashType": "type"
+  },
+  "about": "About this page",
+  "about_text": "Mauris elementum eleifend diam, ac pretium nisi malesuada ullamcorper. Praesent vehicula tincidunt lobortis. Proin sed est massa. Quisque in nunc porta, euismod leo at, molestie enim. Quisque tincidunt augue vitae risus egestas ornare. Ut et massa bibendum, feugiat justo eu, pharetra nibh. Vivamus rutrum, felis a sollicitudin feugiat, nisi libero sodales arcu, et molestie elit nisl nec magna. Sed convallis, nunc et condimentum fermentum, quam lacus vestibulum justo, nec euismod odio mi ut erat. Curabitur hendrerit, ligula commodo sodales pellentesque, lorem quam rutrum justo, id venenatis justo nisi in diam. ",
+  "filters": "filters",
+  "prague_containers": "prague containers",
+  "do_search": "Search",
+  "back": "Back",
+  "container_map": "Container map",
+  "all_locations": "All locations",
+  "must_include": "Must contain",
+  "only_public_locations": "Only public stations",
+  "accessibility": "Accessibility",
+  "disclaimer": "About demand calculation",
+  "disclaimer_text": "none",
+  "trash_throughput": "{{throughput, number}} litres",
+  "location_details": "Location details",
+  "close": "Close",
+  "title": "Prague containers"
+}

@@ -1,0 +1,12 @@
+<svg width="44" height="28" viewBox="0 0 44 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 2.35H12C12.9113 2.35 13.65 3.08873 13.65 4V23.65H0.35V4C0.35 3.08873 1.08873 2.35 2 2.35Z" fill="#0031DF" stroke="black" stroke-width="0.7"/>
+<path d="M8 2.35H18C18.9113 2.35 19.65 3.08873 19.65 4V23.65H6.35V4C6.35 3.08873 7.08873 2.35 8 2.35Z" fill="#FDCD21" stroke="black" stroke-width="0.7"/>
+<path d="M12 5.35H22C22.9113 5.35 23.65 6.08873 23.65 7V23.65H10.35V7C10.35 6.08873 11.0887 5.35 12 5.35Z" fill="#FB993E" stroke="black" stroke-width="0.7"/>
+<path d="M16 0.35H21C21.9113 0.35 22.65 1.08873 22.65 2V23.65H14.35V2C14.35 1.08873 15.0887 0.35 16 0.35Z" fill="#F71E52" stroke="black" stroke-width="0.7"/>
+<path d="M21 3.35H31C31.9113 3.35 32.65 4.08873 32.65 5V23.65H19.35V5C19.35 4.08873 20.0887 3.35 21 3.35Z" fill="#009D19" stroke="black" stroke-width="0.7"/>
+<path d="M26 3.35H31C31.9113 3.35 32.65 4.08873 32.65 5V23.65H24.35V5C24.35 4.08873 25.0887 3.35 26 3.35Z" fill="#FCFFE8" stroke="black" stroke-width="0.7"/>
+<path d="M31 1.35H38C38.9113 1.35 39.65 2.08873 39.65 3V23.65H29.35V3C29.35 2.08873 30.0887 1.35 31 1.35Z" fill="#D02500" stroke="black" stroke-width="0.7"/>
+<path d="M35 8.35H42C42.9113 8.35 43.65 9.08873 43.65 10V23.65H33.35V10C33.35 9.08873 34.0887 8.35 35 8.35Z" fill="#C4C4C4" stroke="black" stroke-width="0.7"/>
+<rect y="23" width="44" height="2" fill="black"/>
+<path d="M22 28L18.5359 24.25L25.4641 24.25L22 28Z" fill="black"/>
+</svg>
